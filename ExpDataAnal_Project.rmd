@@ -10,7 +10,7 @@ rw_data<-read.csv("wineQualityReds.csv")
 
 ```
 
-#Introduction
+# Introduction
 
 In this report, I'll be performing an exploratory data analysis on a data set of
 red wine samples collected by Cortez et al.[1].  The data set contains 1,559 red
