@@ -17,3 +17,7 @@ $ cd Wine_Exploratory
 
 This analysis is made in R and requires a suitable editor to modify.
 However, if just wish to view it you can navigate to its [GitHub Page](https://john-ingles-gith.github.io/Wine_Exploratory/).
+
+## License
+
+GNU General Public License v3.0
